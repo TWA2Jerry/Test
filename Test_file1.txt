@@ -13,5 +13,9 @@ Second change made by laptop
 THis change was made by the laptop after pulling from the master
 Adding a second change
 
+<<<<<<< HEAD
 Testing what happens if we make a change if we make a change and try git pull without committing first
 Just doing some stuff, this was written after a change was already made on the laptop to this same file
+=======
+Testing what happens if we make a change if we make a change and try git pull without "This is just a random change to see what happens if we have conflicts"  committing first
+>>>>>>> 6eb63357067266f9ae5bc1a3d11512bdaf4af6ce
