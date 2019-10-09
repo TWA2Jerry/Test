@@ -1,7 +1,7 @@
 Hello, can you hear me?
 I was wondering after all these years youz would all meat 
-<<<<<<< HEAD
 Hello from the outside
-=======
 Hello from teh other side
->>>>>>> 7744c20c04ae8fe004b225d565e6885e3fbc90b8
+
+
+This change was made by Jesse's iMac at 44
