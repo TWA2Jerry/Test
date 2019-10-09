@@ -21,3 +21,5 @@ Testing what happens if we make a change if we make a change and try git pull wi
 >>>>>>> 6eb63357067266f9ae5bc1a3d11512bdaf4af6ce
 
 This change will be mirrored by a change on the iMac
+New change
+This change is on iMac
