@@ -19,3 +19,5 @@ Just doing some stuff, this was written after a change was already made on the l
 =======
 Testing what happens if we make a change if we make a change and try git pull without "This is just a random change to see what happens if we have conflicts"  committing first
 >>>>>>> 6eb63357067266f9ae5bc1a3d11512bdaf4af6ce
+
+This change will be mirrored by a change on the iMac
